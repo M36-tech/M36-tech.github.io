@@ -13,8 +13,7 @@ title                    : "Wenyang Meng / Personal Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Wenyang Meng"  # Update this with your name
 description              : &description "Wenyang Meng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://M36-tech
-.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://M36-tech.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "M36-tech/M36-tech.github.io"
@@ -27,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Wenyang Meng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PHD student at China Agricultural University. Research interests include Artificial Intelligence, Machine Learning, Deep Learning."
   location         : "CHINA"
-  employer         : "Red Brick University"
+  employer         : "China Agricultural University"
   uri              : # URL
   email            : "mwy@cau.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-6236-8005"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -52,13 +51,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "M36-tech"
+
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
