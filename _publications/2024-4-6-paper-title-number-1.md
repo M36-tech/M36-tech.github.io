@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/pii/S1568494624003284?via%3Dihub
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-6
+date: 2024-4-6
 venue: 'Applied Soft Computing Journal'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper1.pdf'
