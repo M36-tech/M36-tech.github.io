@@ -8,7 +8,8 @@ date: 2024-4-6
 venue: 'Applied Soft Computing Journal'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1568494624003284?via%3Dihub'
+bibtexurl: 'https://M36-tech.github.io/files/bibtex1.bib'
 citation: 'W Meng, Y Li, X Gao, J Ma, Ensemble classifiers using multiobjective genetic
 programming for unbalanced data, Appl Soft Comput 158 (2024) 111554.'
 ---
